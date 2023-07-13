@@ -32,9 +32,9 @@
   - Zhou, Junsheng, et al. （tsinghua BNRist）
 - [CVPR 2022] **Surface Representation for Point Clouds** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ran_Surface_Representation_for_Point_Clouds_CVPR_2022_paper.pdf) [[code]](https://github.com/hancyran/RepSurf) 
   - Ran, Haoxi, Jun Liu, and Chengjie Wang. (Tencent Youtu Lab)
-- [CVPR 2022] **Surface Reconstruction from Point Clouds by Learning Predictive Context Priors ** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Surface_Reconstruction_From_Point_Clouds_by_Learning_Predictive_Context_Priors_CVPR_2022_paper.pdf) [[code]](https://github.com/mabaorui/PredictableContextPrior) 
+- [CVPR 2022] **Surface Reconstruction from Point Clouds by Learning Predictive Context Priors** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Surface_Reconstruction_From_Point_Clouds_by_Learning_Predictive_Context_Priors_CVPR_2022_paper.pdf) [[code]](https://github.com/mabaorui/PredictableContextPrior) 
   - Ma, Baorui, et al. （tsinghua BNRist）
-- [CVPR 2022] **Reconstructing Surfaces for Sparse Point Clouds with On-Surface Priors ** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Reconstructing_Surfaces_for_Sparse_Point_Clouds_With_On-Surface_Priors_CVPR_2022_paper.pdf) [[code]](https://github.com/mabaorui/OnSurfacePrior) 
+- [CVPR 2022] **Reconstructing Surfaces for Sparse Point Clouds with On-Surface Priors** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Reconstructing_Surfaces_for_Sparse_Point_Clouds_With_On-Surface_Priors_CVPR_2022_paper.pdf) [[code]](https://github.com/mabaorui/OnSurfacePrior) 
   - Ma, Baorui, Yu-Shen Liu, and Zhizhong Han. （tsinghua BNRist）
 
 ### Underwater
